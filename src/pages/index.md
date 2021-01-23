@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Beranda
 sections:
   - type: hero_section
     title: Pendidikan
