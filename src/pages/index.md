@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: Pendidikan
     subtitle: Kita semua berharap Pendidikan di Negeri ini terus maju.
     actions:
       - label: Learn More
